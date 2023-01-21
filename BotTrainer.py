@@ -1,3 +1,5 @@
+# This code is training a bot using modal gpt-2
+# Import necessary modules
 import os
 
 from transformers import GPT2Tokenizer, GPT2LMHeadModel, Trainer, TrainingArguments
